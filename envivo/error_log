@@ -1,0 +1,2 @@
+[19-Sep-2020 05:07:10 UTC] xnau_Template_Email::_mail sending failed for: admin@envivo.ofertazafiro.ml while doing: PDb_Signup::_do_notify
+[19-Sep-2020 05:07:10 UTC] xnau_Template_Email::_mail sending failed for: anonimoirc@gmail.com while doing: PDb_Signup::_do_receipt
